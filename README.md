@@ -28,4 +28,5 @@ Click on the links here to install the scripts :
 #### NexusMod Auto Endorse <a name = "script_nexus_endorse"></a>
 Go to your nexus download history and click on Toggle Script in TamperMonkey's menu.
 ![Auto Endorse Example Image](Resources/Images/AutoEndorse.png)
+
 It'll stop itself once it gets to the last page
