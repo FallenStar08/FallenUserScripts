@@ -4,8 +4,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Installing](#installing)
 
 ## About <a name = "about"></a>
 
@@ -23,24 +22,11 @@ What things you need to install the software and how to install them.
 Give examples
 ```
 
-### Installing
+### Installing <a name = "installing"></a>
 
 Get the tampermonkey extension for your browser : [TamperMonkey](https://www.tampermonkey.net/)
 
+Click on the links here to install the wanted scripts :
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+[Nexus Mod Auto Endorse](https://github.com/FallenStar08/FallenUserScripts/raw/main/NexusAutoEndorse.user.js)
 
