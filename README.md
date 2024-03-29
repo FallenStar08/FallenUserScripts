@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Installing](#installing)
 - [Usage](#usage)
     - [Nexus_Auto_Endorse](#script_nexus_endorse)
