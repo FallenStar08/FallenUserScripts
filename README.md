@@ -19,4 +19,5 @@ Get the tampermonkey extension for your browser : [TamperMonkey](https://www.tam
 Click on the links here to install the scripts :
 
 * [Nexus Mod Auto Endorse](https://github.com/FallenStar08/FallenUserScripts/raw/main/NexusAutoEndorse.user.js)
+    * Usage : Go to your nexus download history and click ![Auto Endorse Example Image](Resources/Images/AutoEndorse.png)
 
