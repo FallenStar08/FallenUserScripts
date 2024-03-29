@@ -6,7 +6,7 @@
 - [Getting Started](#getting_started)
 - [Installing](#installing)
 - [Usage](#usage)
-    -[Nexus_Auto_Endorse](#script_nexus_endorse)
+    - [Nexus_Auto_Endorse](#script_nexus_endorse)
 
 ## About <a name = "about"></a>
 
@@ -26,5 +26,6 @@ Click on the links here to install the scripts :
 ### Usage <a name = "usage"></a>
 
 
-* # NexusMod Auto Endorse <a name = "script_nexus_endorse"></a>
-Go to your nexus download history and click ![Auto Endorse Example Image](Resources/Images/AutoEndorse.png)
+#### NexusMod Auto Endorse <a name = "script_nexus_endorse"></a>
+Go to your nexus download history and click on Toggle Script in TamperMonkey's menu.
+![Auto Endorse Example Image](Resources/Images/AutoEndorse.png)
