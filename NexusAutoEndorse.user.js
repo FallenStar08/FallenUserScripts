@@ -17,7 +17,7 @@
     // Function to close modals (this totally does work)
     function closeModal() {
         let modals = document.querySelectorAll('.mfp-close');
-        console.log(modals);
+        //console.log(modals);
         modals.forEach(modal => {
             modal.click();
         });
