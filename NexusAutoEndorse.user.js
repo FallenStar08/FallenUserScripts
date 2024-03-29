@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Endorsement Clicker
-// @namespace    http://your.domain.com
 // @version      1.0
 // @description  Endorse all the mods in the download history
 // @author       FallenStar
@@ -8,6 +7,8 @@
 // @match        https://www.nexusmods.com/users/myaccount?tab=download+history
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nexusmods.com
 // @grant        GM_registerMenuCommand
+// @downloadURL 	https://github.com/FallenStar08/FallenUserScripts/raw/main/NexusAutoEndorse.user.js
+// @updateURL 		https://github.com/FallenStar08/FallenUserScripts/raw/main/NexusAutoEndorse.user.js
 // ==/UserScript==
 
 (function () {
